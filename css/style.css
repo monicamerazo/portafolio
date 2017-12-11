@@ -1,0 +1,120 @@
+body{
+	font-family: 'Roboto Slab', serif;
+}
+#intro{
+	background-image: url(../img/roses-2117370_1920.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: #000;
+	height: 400px;
+	padding-bottom: 0px;
+
+}
+#intro h1{
+	color: #FFFFFF;
+	padding-top: 150px;
+	font-size: 50px;
+}
+#intro h4{
+	color: #FFFFFF;
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+
+#intro .btn-default{
+	background-color: transparent;
+	border-width: 2px;
+	color: #fff;
+}
+#intro .btn-default:hover{
+	background-color: #F36595;
+	border-color: #F36595;
+	
+}
+
+#about{
+	padding-bottom: 100px;
+}
+
+#services{
+	background-color: #343333;
+	color: #fff;
+}
+
+#services .fa{
+	font-size: 40px !important;
+	color: #343333;
+	border-radius: 10px;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	box-sizing: padding-box;
+}
+
+#services #foto p{
+	font-weight: lighter;
+}
+
+#foto i{
+	background-color: #FFFFFF;
+}
+
+#services #laptop p{
+	font-weight: lighter;
+}
+
+#laptop i{
+	background-color: #FFFFFF;
+}
+
+#services #arte p{
+	font-weight: lighter;
+}
+
+#arte i{
+	background-color: #FFFFFF;
+}
+
+#services #empaque p{
+	font-weight: lighter;
+}
+#empaque i{
+	background-color: #FFFFFF;
+}
+#proyect h4{
+	text-transform: uppercase;
+	font-weight: bold;
+	background-color: #EBEBEB;
+	height: 40px;
+	line-height: 40px;
+}
+#proyect article{
+	padding-bottom: 50px;
+}
+#proyect img{
+	border-radius: 10px;
+}
+#contact{
+	background-image: url(../img/rose-2378156_1920.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+	color: #fff;
+	height: 400px;
+	padding-bottom: 0px;
+}
+#contact label{
+	font-weight: normal;
+}
+footer{
+	background-color: #343333;
+	color: #fff;
+	font-weight: lighter;
+}
+
+
+
+
+
+
